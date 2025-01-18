@@ -17,13 +17,13 @@ time.sleep(1)
 
 pyautogui.click(x=797, y=410)
 
-pyautogui.write("bielneme462@gmail.com")
+pyautogui.write("Teste@email.com")
 time.sleep(0.7)
 
 pyautogui.press("tab")
 time.sleep(0.7)
 
-pyautogui.write("Gabriel")
+pyautogui.write("Teste1234")
 
 pyautogui.press("tab")
 pyautogui.press("enter")
