@@ -23,7 +23,7 @@ time.sleep(0.7)
 pyautogui.press("tab")
 time.sleep(0.7)
 
-pyautogui.write("Teste1234")
+pyautogui.write("TestePython")
 
 pyautogui.press("tab")
 pyautogui.press("enter")
